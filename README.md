@@ -2,6 +2,9 @@
 
 **Multimodal classification framework for early Mild Cognitive Impairment detection using EEG and HRV data, with attention-based fusion and CNN-LSTM architecture.**
 
+![Model Architecture](HyDL_pipeline.png)
+
+
 ---
 
 ## 📁 Contents
