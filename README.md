@@ -67,11 +67,15 @@ The datasets used in this study are not publicly available due to data-sharing r
 If you use this work in your research, please cite:
 
 ```
-@article{jalloul2025hydl,
-  title={Empirical Mode Decomposition and Attention-Driven Deep Fusion of Electroencephalographic and Heart Rate Variability for Cognitive Impairment Detection},
-  author={Basma Jalloul and Siwar Chaabene and Bassem Bouaziz and Walid Mahdi},
-  journal={Submitted, SN Computer Science},
-  year={2025}
+@article{Jalloul2025EMD,
+  author    = {B. Jalloul and S. Chaabene and B. Bouaziz and W. Mahdi},
+  title     = {Empirical Mode Decomposition and Attention-Driven Deep Fusion of Electroencephalographic and Heart Rate Variability Data for Cognitive Impairment Detection},
+  journal   = {SN Computer Science},
+  volume    = {6},
+  number    = {856},
+  year      = {2025},
+  doi       = {10.1007/s42979-025-04418-y},
+  url       = {https://doi.org/10.1007/s42979-025-04418-y}
 }
 ```
 
