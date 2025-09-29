@@ -47,6 +47,7 @@ This framework fuses **EEG** and **HRV** data using a hybrid CNN-LSTM model with
 | EEG Only (HyDL)      | 76.50%              | 0.83           |
 | HRV Only (HyDL)      | 64.09%              | 0.66           |
 | EEG + HRV (HyDL)     | **91.59%**          | **0.94**       |
+| External Validation  | **94.35%**          | **0.93**       |
 
 > Results from primary dataset. See `HyDL_SNCS_validation.ipynb` for cross-dataset generalization.
 
